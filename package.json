@@ -2,9 +2,9 @@
   "name": "the-weeknd-landing",
   "version": "1.0.0",
   "description": "A landing for the weeknd last playlists",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d ./"
   },
   "repository": {
     "type": "git",
