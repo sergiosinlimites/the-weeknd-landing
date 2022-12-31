@@ -2,7 +2,7 @@
   "name": "the-weeknd-landing",
   "version": "1.0.0",
   "description": "A landing for the weeknd last playlists",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "deploy": "gh-pages -d src"
   },
