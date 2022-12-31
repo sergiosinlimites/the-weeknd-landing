@@ -1,0 +1,27 @@
+{
+  "name": "the-weeknd-landing",
+  "version": "1.0.0",
+  "description": "A landing for the weeknd last playlists",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiosinlimites/the-weeknd-landing.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "JavaScript",
+    "RapidAPI"
+  ],
+  "author": "Sergio Andrés Bolaños Penagos <sergioandresbolanospenagos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergiosinlimites/the-weeknd-landing/issues"
+  },
+  "homepage": "https://github.com/sergiosinlimites/the-weeknd-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
